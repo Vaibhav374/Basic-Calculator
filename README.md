@@ -30,7 +30,7 @@ Follow these steps to run the calculator on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/basic-python-calculator.git
+git clone https:https://github.com/Vaibhav374/Basic-Calculator
 cd basic-python-calculator
 2. Run the Calculator
 bash
